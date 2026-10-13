@@ -1,2 +1,2 @@
 # interactividad
-ejercicios interactivos para a web
+ejercicios interactivos para web
