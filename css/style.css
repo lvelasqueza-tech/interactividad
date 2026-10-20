@@ -3,12 +3,16 @@
 :root {
   --white: #f2f2f2;
   --black:#010101;
-  --font: Arial, Helvetica, sans-serif;
+  --font: Helvetica, sans-serif;
   color-scheme: dark;
   --bg: var(--white);
   --text: var(--black);
   }
 
   body {
-    background: ;
+    background-image: url(../img/mexico.svg), url(../img/fpant2.jpg);
+    background-size: auto 100%, auto 100%;
+    background-position: 40% 28%, 0 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
